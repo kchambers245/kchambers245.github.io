@@ -1,5 +1,7 @@
-## January 28, 2014 - Project 1 Process
+---
+published: false
+---
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+##February 5, 2014 - Project 1 Process
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+### This past week I have been exploring different ideas for the library website's look. I first began by trying to figure out a look for the library's website, though after a couple sketches I decided to shift to work on a page such as the media viewing page, which a past teacher had encouraged doing because pages such as those usually need to hold the most informationâ€”and thus are most restricted in terms of design. Though if you successfully manage to design these pages, you should be able to extend your design to fit the other pages relatively easily.

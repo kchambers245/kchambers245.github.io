@@ -1,5 +1,9 @@
-## January 28, 2014 - Project 1 Process
+---
+published: false
+---
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+## March 11, 2014 - Project 2 Process
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+### This past week I've been looking into APIs and how I can use them in my own website. I am pretty much decided that I want to make a music gig and venue site, which would allow users to look up their location and find any music events going on around them (through the use of Facebook).
+
+### For a while I was considering making a website with a similar idea to the REI project, where it would look up Instagram tags that deal with camping, an them map them on a map of where they are. My problem with this idea was that most Instagram users don't use the location mapping option given to them, so I would have no way to know where to map the information. I also was concerned about making another website that had no real function other than aesthetics--I really want to create something that could potentially be useful if fully functional. 

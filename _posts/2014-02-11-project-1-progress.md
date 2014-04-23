@@ -1,5 +1,7 @@
-## January 28, 2014 - Project 1 Process
+---
+published: false
+---
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+## February 11, 2014 - Project 1 Process
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+### This week I looked more in-depth into bootstrap than I had previously done before. I also tried to incorporate the use of SASS into my project, which we learned the basics of in our previous class. I continued to find it a bit confusing, but am confident with more practice I will better learn how to make my way around it. For now I just fumbled my way through to get what I wanted, which isnâ€™t too horrible, I guess. I still learn a lot that way.

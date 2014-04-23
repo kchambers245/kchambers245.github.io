@@ -1,5 +1,15 @@
-## January 28, 2014 - Project 1 Process
+---
+published: false
+---
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+## January 25, 2014 - My favorite internet thing.
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+![](/_posts/blog1.png)
+
+[REI 1440 Project](http://www.rei1440project.com/ "http://www.rei1440project.com/")
+
+An awesome website I came across this past week was the REI 1440 Project--"a celebration of every minute spent outside."
+
+REI created a website featuring a visual timeline populated by user submitted photos taken outside at a specific time. I found it interesting because of how intimate the website felt--making you feel like you're actually viewing these snippets of people's lives as they are happening.
+
+I also like nature photos. 

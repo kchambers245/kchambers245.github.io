@@ -1,176 +1,21 @@
-<!doctype html>
-<html>
+---
+layout: default
+title: Advanced Web Design Class Website
+---
 
-	<head>
-		
-		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
-	
-		<title>
-			Advanced Web Design Class Website
-		</title>
-	
-	<style>
-		
-body {
-	font-family: 'Roboto', sans-serif;
-}
-header {
-	margin-top: 25px;
-	position:fixed;
-	top:-30px;
-	z-index:999;
-}
-h1 {
-	color: #4974B2;
-	font-weight: 400;
-	margin-top: 30px;
-	margin-left: 15px;
-	font-size: 30px;
-}
-h2 {
-	color:#fff;
-	background: #BCBEC0;
-	padding-bottom: 4px;
-	font-size: 20px;
-	line-height: 30px;
-	font-weight: 300;
-	padding-left: 15px;
+<section class="list postlist">
+	<h1>Kristine's class website!</h1>
 
-}
+	{% for post in site.posts %}
+	<article>
+		<time>{{ post.date | date_to_string }}</time>
+		<h2>
+			<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+				{{ post.title }}
+			</a>
+		</h2>
+	</article>
+	{% endfor %}
+</section>
 
-h3{
-	font-size: 16px;
-	font-weight: 300;
-	margin-left: 15px;
-	
-}
-h4{	
-	font-weight: 300;
-	text-align: left;
-	margin-top: 0px;
-	font-size: 19px;
-	line-height: 20px;
-	padding-left: 310px;
-	font-style: italic;
-}
-h5{	
-	font-weight: 300;
-	text-align: left;
-	margin-bottom: 20px;
-	font-size: 30px;
-	line-height: 32px;
-}
-h6 {
-	margin-top: 0px;
-	font-size: 16px;
-	line-height: 22px;
-	padding-left: 100px;
-	margin-bottom: 20px;
-}
-footer{
-	font-size: 14px;
-	line-height: 20px;
-	text-align:left;
-	margin-left: 15px;
-	padding-top: 20px;
-	margin-bottom: -30px;
-}
-p {
-	margin-top: 0px;
-	font-size: 16px;
-	line-height: 22px;
-	padding-left: 340px;
-}
-
-a:link {
-	color:#fff;
-	background: #BCBEC0;
-	padding-bottom: 4px;
-	font-size: 20px;
-	line-height: 30px;
-	font-weight: 300;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 4px;
-	width: 200px;
-	text-decoration: none;
-	}  
-	  
-a:visited {
-	background: #BCBEC0;
-	color: #fff;
-}
-a:hover {
-	background: #000000;
-	} 
-a:active {background: #000000;;} 
-
-.container {
-	height: 600px;
-	width: 600px;
-	margin: 20px auto;
-	padding: 25px;
-	overflow: hidden;
-}
-		
-	</style>
-	
-	
-	</head>
-	
-	<body>
-	
-		<h1>
-			Kristine's class website!
-		</h1>
-	
-	<br>
-	<a href="apr-16-14.html">April 16, 2014 - Project 2</a>
-	<br><br>
-	<a href="apr-15-14.html">April 15, 2014</a>
-	<br><br>
-	<a href="#">April 2, 2014</a>
-	<br><br>
-	<a href="#">April 9, 2014</a>
-	<br><br>
-	<a href="mar-26-14.html">March 26, 2014</a>
-	<br><br>
-	<a href="mar-25-14.html">March 25, 2014</a>
-	<br><br>
-	<a href="mar-12-14.html">March 12, 2014</a>
-	<br><br>
-	<a href="mar-11-14.html">March 11, 2014</a>
-	<br><br>
-	<a href="mar-05-14-2.html">March 5, 2014 - Project 01</a>
-	<br><br>
-	<a href="#">February 5, 2014</a>
-	<br><br>
-	<a href="#">February 4, 2014</a>
-	<br><br>
-	<a href="#">February 26, 2014</a>
-	<br><br>
-	<a href="#">February 25, 2014</a>
-	<br><br>
-	<a href="#">February 12, 2014</a>
-	<br><br>
-	<a href="#">February 19, 2014</a>
-	<br><br>
-	<a href="#">February 18, 2014</a>
-	<br><br>
-	<a href="feb-12-14.html">February 12, 2014</a>
-	<br><br>
-	<a href="feb-11-14.html">February 11, 2014</a>
-	<br><br>
-	<a href="feb-05-14.html">February 5, 2014</a>
-	<br><br>
-	<a href="feb-04-14.html">February 4, 2014</a>
-	<br><br>
-	<a href="jan-25-14.html">January 25, 2014</a>
-	<br><br>
-	<a href="jan-28-14.html">January 28, 2014</a>
-	
-	
-	</body>
-
-</html>
 

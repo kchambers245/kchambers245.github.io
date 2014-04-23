@@ -1,5 +1,9 @@
-## January 28, 2014 - Project 1 Process
+##April 16, 2014 - My favorite Internet thing.
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+![](/_posts/blog6.png)
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+[Like There Is No Tomorrow](http://www.like-there-is-no-tomorrow.com/)
+
+###This weeks installment of "Cool Internet Thing" is a website titled Like There Is No Tomorrow, which I believe is a website for a New Year's Eve Party. A fancy one. There is English scattered throughout, but most of it appears to be in French.
+
+###At this point I've seen a lot of websites using paralax scrolling and other things of the like, although I've never seen one with the center of the page being the axis for these elements to change. I found interesting and beautiful (although not totally functional). 

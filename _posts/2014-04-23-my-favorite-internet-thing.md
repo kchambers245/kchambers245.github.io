@@ -1,6 +1,11 @@
+---
+layout: default
+published: true
+---
+
 ## April 23, 2014 - My Favorite Internet Thing.
 
-![](/_posts/blog7.png)
+![](img/blog7.png)
 
 [A journey through Middle Earth](http://middle-earth.thehobbit.com/)
 

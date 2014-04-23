@@ -1,10 +1,11 @@
 ---
-published: false
+layout: default
+published: true
 ---
 
 ## March 12, 2014 - My favorite internet thing.
 
-![](/_posts/blog4.png)
+![](img/blog4.png)
 
 [How Far is it to Mars?](http://www.distancetomars.com/)
 

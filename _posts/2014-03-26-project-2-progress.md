@@ -1,5 +1,6 @@
 ---
-published: false
+layout: default
+published: true
 ---
 
 ## March 26, 2014 - Project 2 Process

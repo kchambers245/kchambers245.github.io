@@ -1,6 +1,11 @@
+---
+layout: default
+published: true
+---
+
 ##April 16, 2014 - My favorite Internet thing.
 
-![](/_posts/blog6.png)
+![](img/blog6.png)
 
 [Like There Is No Tomorrow](http://www.like-there-is-no-tomorrow.com/)
 

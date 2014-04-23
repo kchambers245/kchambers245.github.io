@@ -1,3 +1,8 @@
+---
+layout: default
+published: true
+---
+
 ## January 28, 2014 - Project 1 Process
 
 ### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.

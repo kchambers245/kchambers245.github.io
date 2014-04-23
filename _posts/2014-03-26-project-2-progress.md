@@ -1,5 +1,11 @@
-## January 28, 2014 - Project 1 Process
+---
+published: false
+---
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+## March 26, 2014 - Project 2 Process
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+###This past week was spring break, and thus I did not do much that was particularly prouctive, however, now that I'm back, I'm also back to working on web design.
+
+###This week I looked into how I would begin to code my webste for project 2. In theory, it should be relatively simple to get he basica layout of the website coded--it's just one page and a modal popup.
+
+###Let's see how this goes... 

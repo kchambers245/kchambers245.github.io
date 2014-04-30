@@ -5,7 +5,7 @@ published: true
 
 ## January 25, 2014 - My favorite internet thing.
 
-![REI Project](../img/blog1.png)
+![REI Project](/img/blog1.png)
 
 [REI 1440 Project](http://www.rei1440project.com/ "http://www.rei1440project.com/")
 

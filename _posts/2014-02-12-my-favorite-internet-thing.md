@@ -5,7 +5,7 @@ published: true
 
 ## February 12, 2014 - My favorite internet thing.
 
-![](img/blog3.png)
+![](/img/blog3.png)
 
 [Extra Virgin Suicide](http://www.nytimes.com/interactive/2014/01/24/opinion/food-chains-extra-virgin-suicide.html?_r=0)
 

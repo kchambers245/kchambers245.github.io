@@ -5,7 +5,7 @@ published: true
 
 ##March 25, 2014 - My favorite internet thing.
 
-![](img/blog5.png)
+![](/img/blog5.png)
 
 [Evoke](http://cafeevoke.com/)
 

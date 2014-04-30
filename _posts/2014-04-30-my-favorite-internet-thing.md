@@ -5,8 +5,8 @@ published: true
 
 ## April 30, 2014 - My Favorite Internet Thing.
 
-![](img/blog8.png)
-![](img/blog8-2.png)
+![](/img/blog8.png)
+![](/img/blog8-2.png)
 
 [Passion Genome](http://www.nissanusa.com/passiongenome/)
 

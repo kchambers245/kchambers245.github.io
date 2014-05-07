@@ -1,14 +1,5 @@
-<!doctype html>
-<html>
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
-	<head>
-
-		<title>{{ page.title }}</title>
-		
-		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
-	
-	<style>
-		
 body {
 	font-family: 'Roboto', sans-serif;
 	max-width: 50%;
@@ -127,20 +118,3 @@ time{
 	text-transform: uppercase;
 	font-weight: 300;
 }
-		
-	</style>
-	
-	
-	</head>
-
-	<h1>Kristine's class website!</h1>
-
-	<body>
-		{{ content }} 
-	</body>
-	
-	
-	
-
-</html>
-

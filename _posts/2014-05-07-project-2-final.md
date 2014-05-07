@@ -17,6 +17,8 @@ published: true
 
 #### Final:
 
+[Project 2](http://kchambers245.github.io/project-02/)
+
 ![](/img/proj2.png)
 
-[Project 2](http://kchambers245.github.io/project-02/)
+

@@ -22,6 +22,6 @@ published: true
 
 #### Final:
 
-![](/img/proj1.png)
-
 [Project 1](http://kchambers245.github.io/project-01/index.html)
+
+![](/img/proj1.png)

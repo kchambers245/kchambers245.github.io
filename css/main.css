@@ -2,7 +2,8 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	max-width: 50%;
+	width: 700px;
+	max-width: 70%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -134,5 +135,5 @@ time{
 }
 
 img {
-	max-width: 700px;
+	max-width: 900px;
 }

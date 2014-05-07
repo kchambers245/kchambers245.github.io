@@ -75,10 +75,10 @@ a:link {
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 4px;
-	width: 200px;
+	
 	text-decoration: none;
 	}  
-
+	  
 a:visited {
 	background: #BCBEC0;
 	color: #fff;
@@ -86,30 +86,8 @@ a:visited {
 a:hover {
 	background: #000000;
 	} 
-a:active {background: #000000;} 
 
-.main a:link {
-	color:#fff;
-	background: #BCBEC0;
-	padding-bottom: 4px;
-	font-size: 20px;
-	line-height: 30px;
-	font-weight: 300;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 4px;
-	width: 200px;
-	text-decoration: none;
-	}  
-	  
-.main a:visited {
-	background: #BCBEC0;
-	color: #fff;
-}
-.main a:hover {
-	background: #000000;
-	} 
-.main a:active {background: #000000;} 
+a:active {background: #000000;} 
 
 .header a:link {
 	color: #4974B2;
@@ -118,6 +96,8 @@ a:active {background: #000000;}
 	font-size: 30px;
 	text-decoration: none;
 	margin-bottom: 70px;
+	background: none;
+	padding: 0px;
 	} 
 	  
 .header a:visited {

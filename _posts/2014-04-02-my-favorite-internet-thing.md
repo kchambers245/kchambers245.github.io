@@ -3,8 +3,12 @@ layout: default
 published: true
 ---
 
-## January 28, 2014 - Project 1 Process
+## April 02, 2014 - My Favorite Internet Thing.
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+![](/img/blog15.png)
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+[Names for Change](http://wwww.namesforchange.org)
+
+###Names for Change is an organization that gives people the opportunity to name ever-day items for a price, and recieve a custom poster. The money raised will be used to provide those who need it with food and shelter. 
+
+###The website itself I find beautiful and features a function and aethetically pleasing sorking mechanism to display the items. The trasitions on the links I also find to work nicely.

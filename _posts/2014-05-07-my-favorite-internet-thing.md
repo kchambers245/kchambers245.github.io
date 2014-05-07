@@ -3,8 +3,12 @@ layout: default
 published: true
 ---
 
-## January 28, 2014 - Project 1 Process
+## April 09, 2014 - My Favorite Internet Thing.
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+![](/img/blog13.png)
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+[Z-type](phoboslab.org/z-type)
+
+###Z-type isn't really a website bit it is indeed a cool internet thing. 
+
+###It's a game that you use your typing skills to school bullets at upcoming words and letters. I find it fun to pass the time with. The music chosen I find is the only thing that throws me off a bit. The movement on the screen is nice and smooth, so a soothing musis sort of makes sense, but this particuar music is somewhat haunting and very serious. It just changest the mood a lot.

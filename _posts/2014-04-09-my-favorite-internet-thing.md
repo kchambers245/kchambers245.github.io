@@ -3,8 +3,10 @@ layout: default
 published: true
 ---
 
-## January 28, 2014 - Project 1 Process
+## April 09, 2014 - My Favorite Internet Thing.
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+![](/img/blog16.png)
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+[The Future of Football](http://www.oregongridiron.com)
+
+###This website in an incredibly ornate wesbite created for the football team of the University of Oregon (which I assume to be named Grid Iron from the website name, though I couldn't find that basic information on the website itself...). In my opinion, it's a bit too much. There is a lot going on, and at least 3 ways to get almost anywhere. The thing I did find cool was the set of videos that play as a textural element in the background of each of the main pages. I think it is elegant in way that is very interesting.

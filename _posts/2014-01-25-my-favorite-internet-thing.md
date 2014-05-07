@@ -7,7 +7,7 @@ published: true
 
 ![REI Project](/img/blog1.png)
 
-[REI 1440 Project](http://www.rei1440project.com/ "http://www.rei1440project.com/")
+[REI 1440 Project](http://www.rei1440project.com/)
 
 ###An awesome website I came across this past week was the REI 1440 Project--"a celebration of every minute spent outside."
 

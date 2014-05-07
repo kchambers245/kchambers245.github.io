@@ -3,14 +3,10 @@ layout: default
 published: true
 ---
 
-## January 25, 2014 - My favorite internet thing.
+## January 22, 2014 - My favorite internet thing.
 
-![REI Project](/img/blog1.png)
+![](/img/blog12.png)
 
-[REI 1440 Project](http://www.rei1440project.com/ "http://www.rei1440project.com/")
+[mnmly](http://www.mnmly.com)
 
-###An awesome website I came across this past week was the REI 1440 Project--"a celebration of every minute spent outside."
-
-###REI created a website featuring a visual timeline populated by user submitted photos taken outside at a specific time. I found it interesting because of how intimate the website felt--making you feel like you're actually viewing these snippets of people's lives as they are happening.
-
-###I also like nature photos. 
+###Mnmly is  website for designer Hiroaki Yamane. I really like it because it's really different from almost any other website I've seen. I really like that the font is huge and scrolls and fades off the screen. I also like the addition of the animation to the links. The only problem I has was that the links did not work at times. If I refreshed the page they would begin working again, though. So I'm not sure what would cause them to malfunction?

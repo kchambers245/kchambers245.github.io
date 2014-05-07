@@ -2,9 +2,14 @@
 layout: default
 published: true
 ---
+## April 3, 2014 - My Favorite Internet Thing.
 
-## January 28, 2014 - Project 1 Process
+![](/img/blog9.png)
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+[Photomap](photomap.chris-wang.com)
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+###Photomap is a website by designer Chris Wang to showcase his amateur photography.
+
+### I really enjoy the simplicity of the main page and the additions of the animation and pop of color on the rollovers. The pages with photos I find loads a bit slowly, but once working, the website displays the photos nicely. 
+
+###It's not a website for someone who is in for a quick glance--it forces the viewr to theke time and look at each of the images before moving to the next.

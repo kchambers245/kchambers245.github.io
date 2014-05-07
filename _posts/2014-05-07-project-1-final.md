@@ -3,8 +3,25 @@ layout: default
 published: true
 ---
 
-## January 28, 2014 - Project 1 Process
+## May 7, 2014 - Project 2
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+####Creative brief:
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+###I was tasked to redesign the Pratt Enoch Library Website in such a way that would suit a more technologically inclined audience—individuals most likely in their late teens to 20s—who are interested in being able to access all the information they need without physically visiting the library.
+
+###This redesign is necessary because the current library system is outdated and does not cater to the growing use technology that more easily enables people to read information online. 
+
+###To get to this point, I interviewed several persons who I felt fit the criteria for those who intended to use the website. After receiving their input, I set out to research and explore websites that were already implementing some of the key features my interviewees wanted to see.
+
+###Finally, I reviewed these websites as a whole to establish their successes and downfalls.
+
+#### Sketches/research:
+
+![](/img/project-1-research.png)
+![](/img/project-1-sketch.png)
+
+#### Final:
+
+![](/img/proj1.png)
+
+[Project 1](http://kchambers245.github.io/project-01/index.html)

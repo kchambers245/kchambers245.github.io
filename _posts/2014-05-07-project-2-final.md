@@ -3,8 +3,20 @@ layout: default
 published: true
 ---
 
-## January 28, 2014 - Project 1 Process
+## May 7, 2014 - Project 2
 
-### This past week I've been doing a lot of research and hunting down of interviewees that I felt fit my intended demographic. That took more time that originally intended, unfortunately, but I did gather a lot of information I did not necessarily expect.
+####Creative brief:
 
-### After my initial research, I started looking into websites that would be my competitors based off the information I collected from my interviews. I looked into Read Mill, which is an application that allows you to read e-books on your phone. I found the app particularly engaging, so I may have spent a lot more time on it than I actually wanted...
+###I was tasked to design a website that would incorporate the use of APIs, or Application Programming Interfaces, in functionality of the site.
+
+###After brainstorming a few ideas and looking at what options were available, I decided to create a website mapping out all the local music venues and what bands they are or will be playing. The idea would be for someone to be able to look up where he or she is, and quickly see if there are any bands they are interested in seeing playing around them.
+
+#### Sketches:
+
+![](/img/project-2-sketch.png)
+
+#### Final:
+
+![](/img/proj2.png)
+
+[Project 2](http://kchambers245.github.io/project-02/)

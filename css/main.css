@@ -107,7 +107,7 @@ a:active {background: #000000;}
 	color: #000;
 }
 
-.out a:link {
+.main a:link {
 	color:#fff;
 	background: #BCBEC0;
 	padding-bottom: 4px;
@@ -117,18 +117,19 @@ a:active {background: #000000;}
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 4px;
-	width: 200px;
+	width: 800px;
+	max-width: 90%;
 	text-decoration: none;
 	}  
 	  
-.out a:visited {
+.main a:visited {
 	background: #BCBEC0;
 	color: #fff;
 }
-.out a:hover {
+.main a:hover {
 	background: #000000;
 	} 
-.out a:active {background: #000000;;}  
+.main a:active {background: #000000;;}  
 
 
 time{

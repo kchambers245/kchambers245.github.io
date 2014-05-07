@@ -45,6 +45,13 @@ h4{
 	margin: 0px 0px 10px 0px;
 }
 
+h5{
+	padding-bottom: 2px;
+	padding-top: 2px;
+	margin: 0px 0px 10px 0px;
+}
+
+
 footer{
 	font-size: 14px;
 	line-height: 20px;

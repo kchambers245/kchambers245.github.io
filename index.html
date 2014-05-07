@@ -8,12 +8,12 @@ title: Advanced Web Design Class Website
 	{% for post in site.posts %}
 	<article>
 		<time>{{ post.date | date_to_string }}</time>
-
+		<h5>
 			<span class="main">	
 			<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
 				{{ post.title }}
 			</a>
-		
+		</h5>
 	</article>
 	{% endfor %}
 </section>

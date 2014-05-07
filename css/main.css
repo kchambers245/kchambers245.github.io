@@ -99,15 +99,14 @@ p {
 	}  
 	  
 .header a:visited {
-	text-decoration: none;
+	color: #4974B2;
 }
 .header a:hover {
 	color: #000;
-	text-decoration: none;
 	} 
 .header a:active {
 	color: #000;
-	text-decoration: none;}
+}
 
 .out a:link {
 	color:#fff;

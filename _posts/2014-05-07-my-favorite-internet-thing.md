@@ -7,7 +7,7 @@ published: true
 
 ![](/img/blog13.png)
 
-[Z-type](phoboslab.org/z-type)
+[Z-type](http://www.phoboslab.org/z-type)
 
 ###Z-type isn't really a website bit it is indeed a cool internet thing. 
 

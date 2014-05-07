@@ -6,7 +6,7 @@ published: true
 
 ![](/img/blog9.png)
 
-[Photomap](photomap.chris-wang.com)
+[Photomap](http://www.photomap.chris-wang.com)
 
 ###Photomap is a website by designer Chris Wang to showcase his amateur photography.
 
